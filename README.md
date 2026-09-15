@@ -38,14 +38,6 @@ I'm a **B.Tech graduate from NIT Srinagar (2022)**, driven by:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunjbharti&show_icons=true&theme=radical" alt="Nikunj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjbharti&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ## 🎯 What I'm Working On
 
